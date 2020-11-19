@@ -1,0 +1,9 @@
+$ git config --global user.name "rogerm21"
+
+$ git config --global user.email "rogerm21@uwosh.edu"
+
+$ git config --global push.default matching
+
+$ git config --global alias.co checkout
+
+$ git init
